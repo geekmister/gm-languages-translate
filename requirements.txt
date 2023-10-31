@@ -1,0 +1,2 @@
+polib==1.2.0
+translate==3.6.1
